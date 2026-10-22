@@ -2,3 +2,4 @@ hello git
 I am learning git
 This is my feature branch
 my project is now on github
+i am learning git pull now
